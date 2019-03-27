@@ -1,0 +1,9 @@
+
+
+.a-enter-vr-button {
+    background-image: url(icons/ui/Max_Button.png);
+    min-width: 70px;
+    min-height: 70px;
+    transform: scale(0.7);
+    transform-origin: bottom right
+}
